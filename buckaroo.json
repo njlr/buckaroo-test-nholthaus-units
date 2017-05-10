@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-nholthaus-units",
+  "dependencies": {
+    "nholthaus/units": "2.2.0",
+    "google/gtest": "1.8.0"
+  }
+}
